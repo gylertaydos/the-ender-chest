@@ -1,0 +1,44 @@
+ body {
+                background: #F9F9F9;
+                text-align: center;
+                font-family: "monospace", "FreeMono", monospace;
+            }           
+
+nav{
+                text-align: center;                
+}
+
+ul {
+                display: inline-block;
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+}
+
+li{
+                float: left;
+                padding: 15px;
+                background: #6D82BE;
+}
+
+div{
+    font-style: italic;
+}
+
+p{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+figure{
+    padding: 5px;
+}
+
+img{
+    height: 45%;
+    width: 45%;
+}
+
+figcaption{
+    font-size: small;
+}
