@@ -1,28 +1,26 @@
  body {
-                background: #F9F9F9;
+                background: #F9F9F9; /*#F9F9F9 white*/
                 text-align: center;
                 font-family: "monospace", "FreeMono", monospace;
+                
             }           
 
-nav{
-                text-align: center;                
+/*nav{
+                list-style-type: none;
+                float: left;
+                padding: 15px;
+                background: #6D82BE; 
 }
-
+*/
 ul {
                 display: inline-block;
                 list-style-type: none;
-                margin: 0;
-                padding: 0;
 }
 
 li{
                 float: left;
                 padding: 15px;
-                background: #6D82BE;
-}
-
-div{
-    font-style: italic;
+                background: #6D82BE; /*#6D82BE blue*/
 }
 
 p{
