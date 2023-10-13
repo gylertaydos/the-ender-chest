@@ -4,15 +4,15 @@ body {
                 font-family: "monospace", "FreeMono", monospace;
             }           
 
-ul {
+ul.nav{
                 display: inline-block;
-                list-style-type: none
+                list-style-type: none;
 }
 
-li{
+li.nav{
                 float: left;
                 padding: 15px;
-                background: #6D82BE;
+                background: #6D82BE; /*#6D82BE blue*/
 }
 
 div{

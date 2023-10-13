@@ -4,7 +4,6 @@
                 font-family: "monospace", "FreeMono", monospace;
                 
             }           
-
 ul.nav{
                 display: inline-block;
                 list-style-type: none;
@@ -17,19 +16,23 @@ li.nav{
 }
 
 p{
-    margin-left: 100px;
-    margin-right: 100px;
+                margin-left: 100px;
+                margin-right: 100px;
 }
 
-figure{
-    padding: 5px;
+section.resume{
+                margin: 100px;
+                text-align: left;
 }
 
-img{
-    height: 45%;
-    width: 45%;
+div{
+                text-indent: 40px
 }
 
-figcaption{
-    font-size: small;
+h3{
+                text-align: center;
+}
+
+h4{
+                text-align: center;
 }
