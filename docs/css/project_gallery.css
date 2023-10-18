@@ -1,7 +1,8 @@
 body {
-                background: #F9F9F9;
+                background: #F9F9F9; /*#F9F9F9 white*/
                 text-align: center;
                 font-family: "monospace", "FreeMono", monospace;
+                
             }           
 
 ul.nav{
@@ -15,39 +16,30 @@ li.nav{
                 background: #6D82BE; /*#6D82BE blue*/
 }
 
-div{
-    font-style: italic;
-}
-
 p{
     margin-left: 100px;
     margin-right: 100px;
-    text-align: left;
-    text-indent: 25px;
 }
 
-figure{
-    padding: 5px;
-}
-
-figure.namegallery{
-    padding: 5px;
+div.COMM270{
     display: flex;
+    width: 800px;
 }
 
-img.rock{
-    flex:1;
+figure.wolf{
+    flex: 1;
+    max-width: 400px;
 }
 
-img.tree{
-    flex:1;
+figure.earth{
+    flex: 4;
+    max-width: 400px;
 }
 
-img{
-    height: 45%;
-    width: 45%;
+img.bigbadwolf{
+    max-width: 800px;
 }
 
-figcaption{
-    font-size: small;
+img.earth{
+    max-width: 800px;
 }
