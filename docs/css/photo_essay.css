@@ -63,3 +63,8 @@ iframe{
     height: 380px;
     width: 47%;
 }
+
+p.attribution{
+    text-align: center;
+    font-size: small;
+}
