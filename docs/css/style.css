@@ -1,24 +1,24 @@
  body {
-                background: #F9F9F9; /*#F9F9F9 white*/
-                text-align: center;
-                font-family: "monospace", "FreeMono", monospace;
-                
-            }           
+    background: #F9F9F9; /*#F9F9F9 white*/
+    text-align: center;
+    font-family: "monospace", "FreeMono", monospace;
+}           
 
 ul.nav{
-                display: inline-block;
-                list-style-type: none;
+    display: inline-block;
+    list-style-type: none;
 }
 
 li.nav{
-                float: left;
-                padding: 15px;
-                background: #6D82BE; /*#6D82BE blue*/
+    float: left;
+    padding: 15px;
+    background: #6D82BE; /*#6D82BE blue*/
 }
 
 p{
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 12em;
+    margin-right: 12em;
+    text-align: left;
 }
 
 figure{

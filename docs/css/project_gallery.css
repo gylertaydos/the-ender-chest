@@ -16,8 +16,9 @@ li.nav{
 }
 
 p{
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 12em;
+    margin-right: 12em;
+    text-align: center;
 }
 
 div.COMM270{
