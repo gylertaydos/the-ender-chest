@@ -43,22 +43,14 @@ div.COMM270{
     flex-direction: row;
     justify-content: center;
     margin: auto;
+    flex-wrap: wrap;
 }
 
-figure.wolf{
+figure.gallery{
     flex: 1;
-    max-width: 400px;
+    max-width: 50%;
 }
 
-figure.earth{
-    flex: 4;
-    max-width: 400px;
-}
-
-img.bigbadwolf{
-    max-width: 400px;
-}
-
-img.earth{
-    max-width: 400px;
+img{
+    max-width: 100%;
 }
