@@ -38,17 +38,25 @@ p{
 }
 
 div.COMM270{
-    display: flex;
-    width: 800px;
+/*    display: flex;
+    width: 80%; /\*  make div fits the screen size when resizing the screen*\/
     flex-direction: row;
     justify-content: center;
     margin: auto;
-    flex-wrap: wrap;
+    flex-wrap: wrap;*/
+    
+    width: 80%; 
+    margin: auto;
+    display: grid; /* use grid layout */
+    grid-template-columns: repeat(2, 1fr); /* two items per row */
+    grid-gap: 10px; /* gap between items */
+    
 }
 
 figure.gallery{
-    flex: 1;
-    max-width: 50%;
+/*    flex: 1;*/
+/*    flex: 0 0 calc(50% - 80px); /\* control the size of figure *\/*/
+/*    max-width: 50%;*/
 }
 
 img{
