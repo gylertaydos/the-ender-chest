@@ -62,3 +62,12 @@ figure.gallery{
 img{
     max-width: 100%;
 }
+
+div.corpus_gallery{
+    display: flex;
+}
+
+figure.corpus{
+    flex: 1;
+    flex-direction: row;
+}
