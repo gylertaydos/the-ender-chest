@@ -76,3 +76,8 @@ figure.corpus{
     flex: 1;
     flex-direction: row;
 }
+
+iframe.timemap{
+    width:100%; 
+    height:780px;
+}
