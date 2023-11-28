@@ -77,6 +77,21 @@ figure.corpus{
     flex-direction: row;
 }
 
+figure.videoGame{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+img.videoGame{
+    flex: 1;
+    max-width: 50%;
+}
+
+figcaption{
+    margin: 1em;
+}
+
 iframe.timemap{
     width:100%; 
     height:780px;
