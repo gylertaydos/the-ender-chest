@@ -35,7 +35,7 @@ li.gallery{
 p{
     margin-left: 12em;
     margin-right: 12em;
-    text-align: center;
+    text-align: left;
 }
 
 p.corpus{
@@ -90,6 +90,7 @@ img.videoGame{
 
 figcaption{
     margin: 1em;
+    text-align: left;
 }
 
 iframe.timemap{
