@@ -75,6 +75,7 @@ def readTextFiles(filepath):
         # print(sorted_deduped)
         converted_dict = dict(sorted_deduped)
         print(converted_dict)
+        return converted_dict
 
 
 # ebb: This controls our file handling as a for loop over the directory:
