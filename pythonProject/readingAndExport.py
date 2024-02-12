@@ -66,7 +66,7 @@ def readTextFiles(filepath):
                 # The line above creates the structure for each entry in my dictionary.
                 # print(token.text, "about this much similar to", wordOfInterest, ": ", wordOfInterest.similarity(token))
         print("This is a dictionary of words most similar to the word " + wordOfInterest.text + " in this file.")
-        print(highSimilarityDict)
+        return highSimilarityDict
 
         switcheroo = {val: key for key, val in highSimilarityDict.items()}
         deduped = {val: key for key, val in switcheroo.items()}
@@ -76,6 +76,7 @@ def readTextFiles(filepath):
         converted_dict = dict(sorted_deduped)
         print(converted_dict)
         return converted_dict
+#         I didn't have this return line originally and it was messing me up. Thanks, Dr. B- Tyler
 
 
 # ebb: This controls our file handling as a for loop over the directory:
@@ -91,6 +92,7 @@ with open('similarityReadings.txt', 'a', encoding='utf8') as f:
             f.write(filepath + '\n')
             f.write(str(similarityData) + '\n\n')
 
+            # I had this commented out while fixing my return line, I suppose I could technically let these lines run now.- Tyler
             # xml = dicttoxml(similarityData)
             # dom = parseString(xml)
             # # dom is just a string. We can pretty print it in the console,
