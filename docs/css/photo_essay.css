@@ -1,24 +1,33 @@
 body {
-                background-image:url(smooth-white-stucco-wall.jpg);
-                /*background: #F9F9F9;*/
-                text-align: center;
-                font-family: "monospace", "FreeMono", monospace;
-            }           
-
-nav{
+    /*background-image:url(smooth-white-stucco-wall.jpg);*/
+    background: #F9F9F9;
+    text-align: center;
+    font-family: "monospace", "FreeMono", monospace;
+}
+ul.nav{
+    position: sticky;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    font-size: x-large;
+    top: 0;
     width: 100%;
-    background-color: #6D82BE; /*#6D82BE blue*/;
+    z-index: 2;
 }
 
-ul.nav{
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    float: left;
+}
+li {
     display: inline-block;
     list-style-type: none;
-}
-
-li.nav{
-                float: left;
-                padding: 15px;
-                background: #6D82BE; /*#6D82BE blue*/
 }
 
 div{
@@ -26,11 +35,8 @@ div{
 }
 
 p{
-    margin-left: 100px;
-    margin-right: 100px;
-    text-align: left;
-    text-indent: 25px;
-    font-size: 18px;
+    width: 80%;
+    margin: 20px auto;
 }
 
 figure{
