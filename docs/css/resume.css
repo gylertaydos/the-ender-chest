@@ -1,0 +1,49 @@
+ body {
+                background: #F9F9F9; /*#F9F9F9 white*/
+                text-align: center;
+                font-family: "monospace", "FreeMono", monospace;
+                
+            }           
+ul.nav{
+    position: sticky;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    font-size: x-large;
+    top: 0;
+    width: 100%;
+    z-index: 2;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    float: left;
+}
+li {
+    display: inline-block;
+    list-style-type: none;
+}
+
+p{
+                margin-left: 100px;
+                margin-right: 100px;
+}
+
+section.resume{
+                margin: 100px;
+                text-align: left;
+}
+
+h3{
+                text-align: center;
+}
+
+h4{
+                text-align: center;
+}
