@@ -1,0 +1,28 @@
+start = xml
+xml = element xml {dateLine, fw?, greeting?, p+, closing?, signed?, metadata}
+#the label does not have to be the same as the actual element!
+
+dateLine = element dateLine {when, text}
+when = attribute when {xsd:date}
+
+fw = element fw {line+}
+line = element line {text}
+
+greeting = element greeting {mixed{mistake*}}
+#dont use the reserved word of "text" inside the content model of mixed- the use of mixed already implies text may or may not appear in or around the element
+mistake = element mistake {orig, reg}
+orig = element orig {text}
+reg = element reg {text}
+
+p = element p {mixed{(rend | mistake)*}}
+#parenthesis group the content model to apply repetition indicators on multiple things- frequently used on mixed content models
+rend = element rend {color, mixed{mistake*}}
+color = attribute color {"red" | "blue" | "green"}
+
+closing = element closing {text}
+
+signed = element signed {text}
+
+metadata = element metadata {source}
+source = element source {url, empty}
+url = attribute url {xsd:anyURI}
