@@ -1,0 +1,2500 @@
+Middovah MIDDOV4 
+ 
+ 
+Loyalist/Ally (dragon)  (Dialogue File, 00048F05)  (PrimaGames.com) 
+ 
+Midrot MIDROT 
+ 
+ 
+Loyalty  (Dialogue File, 000E16FE) 
+
+ 
+ 
+
+ 
+Midun MIDUN 
+ 
+ 
+Loyalty  (POGGLE, p. 1097) 
+ 
+ 
+
+Miin M3N 
+ 
+ 
+Eye(s)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Miiraad M3R1D 
+ 
+ 
+Door/Doorway  (Dialogue File, 0004DE40)  (PrimaGames.com) 
+
+ 
+
+ 
+Miiraak M3R1K 
+ 
+ 
+Portal  (PrimaGames.com) 
+
+ 
+
+ 
+Mindin MINDIN 
+ 
+ 
+After  (POGGLE, p. 1097) 
+
+ 
+Mindok MINDOK 
+ 
+ 
+Think  (PrimaGames.com) 
+
+ 
+Mindol MINDOL 
+ 
+ 
+Thought  (PrimaGames.com) 
+
+ 
+Mindoraan  MINDOR1N 
+ 
+ 
+Understanding  (PrimaGames.com) 
+
+ 
+ 
+ 
+
+Mir M7 
+ 
+ 
+Allegiance/Loyal  (Animal Allegiance Shout)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Miraad M71D 
+ 
+ 
+Doorway  (Dialogue File, 0004DE40) 
+
+Misspelling of miiraad. 
+
+ 
+Mon MON 
+ 
+ 
+Daughter  (POGGLE, p. 1099)  (PrimaGames.com) 
+
+ 
+Monah MON4 
+ 
+ 
+Mother  (PrimaGames.com) 
+
+ 
+Monahven MON4VEN 
+ 
+ 
+Throat of the World = Mother (of the) Wind  (Dialogue File, 0003FA3F)  (PrimaGames.com) 
+
+ 
+Morah MOR4 
+ 
+ 
+Focus (also attention/concentration), Thought  (Dialogue File, 000D2CF5)  (PrimaGames.com) 
+ 
+ 
+ 
+ 
+
+ 
+Moro MORO 
+ 
+ 
+Glory  (Book, Dragon Language: Myth No More)  (Dialogue File, 0004591A)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+
+ 
+Morokei MOROK2 
+ 
+ 
+Glorious  (Book, Dragon Language: Myth No More)  (Book, Songs of Skyrim)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Wah Krii ko morokei kein los wah zin geinmaar. Wah dir ko morokei kein los wah zin pah do Keizaal.  To Kill in glorious war is to honor oneself. To die in glorious war is to honor all of Skyrim.  (Word Wall for Krii, Marked for Death) 
+Zok morokei!  Most glorious!  (Mirmulnir, 000A27BD) 
+
+ 
+Motaad MOT1D 
+ 
+ 
+Shudder(ed)  (Book, Songs of Skyrim) (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+ 
+ 
+ 
+
+ 
+Motmah MOTM4 
+ 
+ 
+Slip  (POGGLE, p. 1097)  (PrimaGames.com) 
+ 
+Motmahus MOTM4US 
+ 
+ 
+Slippery/Elusive/Tricky  (PrimaGames.com) 
+
+ 
+  
+Mu MU 
+ 
+ 
+We  (Book, Songs of Skyrim)  (Dialogue File, 000E16F5)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Mul MUL 
+ 
+ 
+Strong/Strength  (Dragon Aspect Shout)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Mulaag MUL1G 
+ 
+ 
+Strength/Strengthen  (Dialogue File, 00044968)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Mulhaan MULH1N 
+ 
+ 
+Unmoving/Unchanging/Still  (POGGLE, p. 1097) 
+
+ 
+ 
+ 
+
+ 
+Mun MUN 
+ 
+ 
+Man  (POGGLE, p. 1097)  (PrimaGames.com) 
+ 
+  
+Munax MUNAX 
+ 
+ 
+Cruel  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+ 
+ 
+
+Muz MUZ 
+ 
+ 
+Men (plural of man, not mankind)  (Book, Songs of Skyrim)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+  
+Naak N1K 
+ 
+ 
+Eat  (Dialogue File, 000B3984)  (POGGLE, p. 1096)  (PrimaGames.com) 
+
+Irregular past participle naako. Featured in the dragon name Vuljotnaak dark maw eat. 
+
+ 
+Naako N1KO 
+ 
+ 
+Eaten  (POGGLE, p. 1096)  (PrimaGames.com) 
+
+ 
+
+ 
+Naal N1L 
+ 
+ 
+By  (Book, Dragon Language: Myth No More)  (Book, Songs of Skyrim)  (Dialogue File, 000E16FA)  (POGGLE, p. 1096)  (PrimaGames.com) 
+
+ 
+
+Naal Thu'umu, mu ofan nii nu, Dovahkiin, naal suleyk do Kaan, naal suleyk do Shor, ahrk naal suleyk do Atmorasewuth.  By our Voice we give it now (to you), Dragonborn, by (the) power of Kyne, by the power of Shor, and by the power of Atmora-of-old.  (Greybeards, 000C43A7) 
+Het mah tahrodiis tafiir Skorji Lun-Sinak, wen klov govey naal rinik hahkun rok togaat wah gahrot.  Here fell the treacherous thief Skorji Leech-Fingers, whose head was removed by the very axe he was attempting to steal.  (Word Wall for Lun, Marked for Death) 
+Zu'u uth nall [sic] thurri [sic] dein daar miiraak.  I (was) ordered by my lord to keep/guard this portal.  (Nahkriin, 000E16FA) 
+
+ 
+Naan N1N 
+ 
+ 
+Any  (Dialogue File, 000ED362)  (POGGLE, p. 1096)  (PrimaGames.com) 
+
+ 
+ 
+
+ 
+Naar N1R 
+ 
+ 
+Summit  (PrimaGames.com) 
+
+ 
+  
+Nah N4 
+ 
+ 
+Fury  (Whirlwind Sprint Shout)  (Dialogue File, 000D2D72)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Nahgahdinok N4G4DINOK 
+ 
+Word Type 
+noun 
+ Pronunciation 
+/.n. g..di nok, n..g. di.nok/ 
+ 
+ 
+
+Official Definition 
+Necromancer  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Nahkip N4KIP 
+ 
+ 
+Feed  (Dialogue File, 000CDDF1)  (PrimaGames.com) 
+
+Zu'u lost kriaan hi ont, nu hin sille fen nahkip suleyki.  I've killed you once, now your souls will feed my power.  (Alduin, 000ED365) 
+There are many hungers it is better to deny than to feed. Dreh ni nahkip.  Dreh ni nahkip = do not feed  (Paarthurnax, 0003F9E2, 0003F9E2) 
+
+ 
+Nahkriin N4KR3N 
+ 
+ 
+Vengeance  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Nahl N4L 
+ 
+ 
+Living (opposite of dead)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Nahlaas N4L1S 
+ 
+ 
+Alive  (Dialogue File, 000D2CF5)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+Nahlot N4LOT 
+ 
+ 
+Silenced (verb)  (Book, Songs of Skyrim)  (Dialogue File, 0009E072)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+  
+Nau NAU 
+ 
+ 
+On  (Book, Songs of Skyrim)  (Book, Dragon Language: Myth No More)  (Dialogue File, 0004DE42)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+ 
+
+Nax NAX 
+ 
+ 
+Cruelty  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Neh NEH 
+ 
+ 
+Never  (Summon Durnehviir Shout)  (POGGLE, p. 1097) 
+
+ 
+Ney N9 
+ 
+ 
+Both  (Book, Songs of Skyrim)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Ni NI 
+ 
+Word Type 
+adverb 
+ Pronunciation 
+/ni/ 
+ 
+ 
+
+Official Definition 
+Not  (Book, Dragon Language: Myth No More)  (Dialogue File, 000D2DBB)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+Het nok kopraan do Iglif Iiz-Sos, wo grind ok oblaan ni ko morokei vukein, nuz ahst munax haalvut do liiv krasaar.  Here lies the body of Iglif Ice-Blood, who met his end not in glorious combat, but at the cruel touch of the withering sickness.  (Word Wall for Iiz, Ice Form) 
+
+ 
+ 
+
+Nid NID 
+ 
+ 
+No/None/Nothing  (Dialogue File, 000C8EA0)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+ 
+
+ 
+Nii N3 
+ 
+ 
+It  (Dialogue File, 000C43A7)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+ 
+ 
+
+ 
+Niid N3D 
+ 
+ 
+Niid No (Dialogue File, 0009C20D) 
+
+Likely a misspelling of nid no. 
+
+ 
+Niin N3N 
+ 
+ 
+Them  (POGGLE, p. 1097) 
+
+ 
+Nikriin NIKR3N 
+ 
+ 
+Coward  (Dialogue File, 000CD9DE)  (POGGLE, p. 1097) 
+
+ 
+ 
+
+ 
+Nil NIL 
+ 
+ 
+Void  (PrimaGames.com) 
+
+ 
+Nimaar NIM1R 
+ 
+ 
+Itself  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Nin NIN 
+ 
+ 
+Sting  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Nir N7 
+ 
+ 
+Hunt  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+Nis NIS 
+ 
+ 
+Cannot  (Dialogue File, 000ED359)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+  
+Nivahriin NIV4R3N 
+ 
+ 
+Cowardly  (Dialogue File, 000C64F1)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+ 
+ 
+
+Nok NOK 
+ 
+ 
+Lie(s)  (Book, Dragon Language: Myth No More)  (Book, Songs of Skyrim)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+Nol NOL 
+ 
+ 
+From  (Book, Dragon Language: Myth No More)  (Book, Songs of Skyrim)  (Dialogue File, 000556DB)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+Sigruuf wahlaan qethsegol briinahii vahrukt, Lanal, wen brit luft los ol kinzon ahrk sot ol Nus, dwiirok nol nahlaas ozinvey.  Sigruuf raised this stone for his sister, Lanal, whose beautiful face was as sharp and white as a Statue, carved from living ivory.  (Word Wall for Nus, Ice Form) 
+
+Ahrk ond drey sahrot Heimverlund meyz, nol hevno Brom, med Strun do uznahgaar nahkriin nol Sovngarde nimaar.  And lo did the mighty Heimverlund come, from the brutal North, like a Storm of unbridled vengeance from Sovngarde itself.  (Word Wall for Strun, Storm Call) 
+
+ 
+Nonvul NONVUL 
+ 
+ 
+Noble  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+
+Qethsegol vahrukiv vur do Faal Vahlok, nonvul aar se dovah wen dez lost wah qahnaar tahrodiis Miraak.  This stone commemorates the valor of the Guardian, noble servant of dragons whose fate it was to vanquish the treacherous Miraak.  (Word Wall for Vur, Valor) 
+
+ 
+Norok NOROK 
+ 
+ 
+Fierce (Fiercest in the Song of the Dragonborn)  (Book, Songs of Skyrim)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+
+ 
+Nos NOS 
+ 
+ 
+Strike  (Cyclone Shout)  (POGGLE, p. 1097) 
+
+ 
+ 
+ 
+
+Nu NU 
+ 
+ 
+Now  (Book, Songs of Skyrim)  (Dialogue File, 0004DE35)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+ 
+ 
+ 
+
+Nunon NUNON 
+ 
+ 
+Only  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+  
+Nus NUS 
+ 
+ 
+Statue  (Ice Form Shout)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Nust NUST 
+ 
+ 
+They/Those  (Book, Songs of Skyrim)  (Dialogue File, 000ED363)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+  
+Nuz NUZ 
+ 
+ 
+But  (Book, Songs of Skyrim)  (Dialogue File, 0003FA46)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+  
+ 
+
+Oblaan OBL1N 
+ 
+ 
+End  (Book, Dragon Language: Myth No More)  (Dialogue File, 000ED359)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+  
+Oblivion OBLIVION 
+ 
+ 
+Oblivion  (POGGLE, p. 1099) 
+
+ 
+Od OD 
+ 
+ 
+Snow  (Call Dragon Shout)  (Book, Songs of Skyrim)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+ 
+
+ 
+Odus ODUS 
+ 
+ 
+Snowy  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Ofaal OF1L 
+ 
+ 
+Receive  (POGGLE, p. 1097) 
+
+ 
+Ofan OFAN 
+ 
+ 
+Give  (Dialogue File, 00048F05)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+ 
+
+ 
+Ogiim OG3M 
+ 
+ 
+Orc  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+ 
+ 
+
+ 
+Ok OK 
+ 
+ 
+His  (Book, Songs of Skyrim)  (Dialogue File, 0009E058)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+Qethsegol vahrukiv key Sarvirra, zok krin Raan alun wah fonaar odus frod, ahrk ofan ok sil fah ok drog.  This stone commemorates the horse Sarvirra, the most courageous Animal ever to charge the snowy battlefields, and give his soul for his lord.  (Word Wall for Raan, Animal Allegiance) 
+
+ 
+Okaaz OK1Z 
+ 
+ 
+Sea  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Ol OL 
+ 
+ 
+As  (Book, Songs of Skyrim)  (Dialogue File, 000EDF49)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+Het nok Fjolmod Bein-Su, wo pook ol pogaas nau gol ol ok kopraan dreh nu ko golt.  Here lies Fjolmod Foul-Air, who stank as much on earth as his body does now in the ground.  (Word Wall for Su, Elemental Fury) 
+
+ 
+Om OM 
+ 
+ 
+Hair  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+  
+Ond OND 
+ 
+ 
+Lo  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Onik ONIK 
+ 
+ 
+Wise  (Dialogue File, 0003F88E)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+
+ 
+Onikaan ONIK1N 
+ 
+ 
+Wisdom  (Dialogue File, 0003C574)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+Qethsegol vahrukiv lot Miraak  sonaak do lot onikaan, aar do faal Diiv, ahrk hokoron do jul.  This stone commemorates the great Miraak  priest of great wisdom, servant of the Wyrm, and enemy of man.  (Word Wall for Diiv, Dragon Aspect) 
+
+ 
+Onikiv ONIKIV 
+ 
+ 
+Enlightenment  (POGGLE, p. 1097) 
+
+Ont ONT 
+ 
+ 
+Once  (Dialogue File, 0009C213, 000ED365)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+  
+Orin ORIN 
+ 
+ 
+Even (adverb, meaning fully or quite)  (Dialogue File, 0004DE36, 0004DE35)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+ 
+ 
+
+Osos OSOS 
+ 
+ 
+Some  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+  
+Oth OTH 
+ 
+ 
+Orphan  (PrimaGames.com) 
+
+ 
+Ov OV 
+ 
+ 
+Trust  (Kynes Peace Shout)  (Dialogue File, 0003C575)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+Het mah spaan vahdin Valkrys, wo krif voth ahkrin, nuz los folaas wah Ov mulaag do bodiis tuz.  Here fell the shield maiden Valkrys, who fought bravely, but was wrong to Trust the strength of a borrowed blade.  (Word Wall for Ov, Kynes Peace) 
+
+ 
+Ozinvey OZINV9 
+ 
+ 
+Ivory  (POGGLE, p. 1099)  (PrimaGames.com) 
+
+ 
+ Paak P1K 
+ 
+ 
+Shame  (Dialogue File, 00045D09)  (PrimaGames.com) 
+
+ 
+ 
+
+Paal P1L 
+ 
+ 
+Foe/Enemy  (Book, Songs of Skyrim)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Paar P1R 
+ 
+ 
+Ambition  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Paaz P1Z 
+ 
+ 
+Fair  (Book, Songs of Skyrim)  (Dialogue File, 00055771)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+Qethsegol vahrukiv paaz kulaas Yrsa, wo ensosin pah do Taazokaan voth ek Dun ahrk brii.  This stone commemorates the fair princess Yrsa, who bewitched all of Tamriel with her Grace and beauty.  (Word Wall for Dun, Elemental Fury) 
+
+ 
+Pah P4 
+ 
+ 
+All  (Book, Songs of Skyrim)  (Dialogue File, 000CD9DF)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+
+Meyye! Tahrodiis aanne! Him hinde pah liiv! Zu'u hin daan!  Fools! Treacherous slaves! Your hopes (are) all withered! I (am) your doom.  (Alduin, 000CD9DF) 
+Pah werid morokei Miraak, zok suleykaar do pah Sonaak wen Mul bolaav naal Fahluaan do Jul.  All praise the glorious Miraak, most powerful of all priests, whose Strength was granted by the Gardener of Men.  (Word Wall for Mul, Dragon Aspect) 
+
+ 
+Pahlok P4LOK 
+ 
+ 
+Arrogance/Arrogant  (Dialogue File, 0004591A)  (PrimaGames.com) 
+
+ 
+
+ 
+Pel PEL 
+ 
+ 
+Write  (PrimaGames.com) 
+
+ 
+  
+Peyt P9T 
+ 
+ 
+Rose  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+The flower, see alok for the verb to rise. 
+
+ 
+Pindaar PIND1R 
+ 
+ 
+Plain(s)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+ 
+ 
+
+ 
+Piraak P71K 
+ 
+ 
+Possess  (POGGLE, p. 1097) 
+
+ 
+Pogaan POG1N 
+ 
+ 
+Many  (Dialogue File, 000D2CF5)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Pogaas POG1S 
+ 
+ 
+Much  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+ 
+ 
+ 
+
+ 
+Pook P8K 
+ 
+ 
+Stink  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Praal PR1L 
+ 
+ 
+Sit/Sat  (POGGLE, p. 1097) 
+ 
+ 
+
+Praan PR1N 
+ 
+ 
+Rest  (Dialogue, 000C43AB)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+ 
+
+ 
+Prodah PROD4 
+ 
+ 
+Foretell/Foretold  (Book, Songs of Skyrim)  (Dialogue, 0003FA40)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+  
+Pruzaan PRUZ1N 
+ 
+ 
+Best  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+Pruzah PRUZ4 
+ 
+ 
+Good  (Dialogue File, 0009E069)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+  
+  
+Qah Q4 
+ 
+ 
+Armor  (Dragon Aspect Shout)  (POGGLE, p. 1097) 
+
+ 
+Qahnaar Q4N1R 
+ 
+ 
+Vanquish  (Dialogue File, 0009E075, 0003F9E2)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Qahnaarin Q4N1RIN 
+ 
+ 
+Vanquisher  (Dialogue File, 0201156B) 
+
+ 
+ 
+
+ 
+Qalos QALOS 
+ 
+ 
+Touch  (Dialogue File, 000C64EC) 
+
+ 
+Qeth QETH 
+ 
+ 
+Bone  (POGGLE, p. 1097)  (PrimaGames.com) 
+ 
+  
+Qethsegol  QETHSEGOL 
+ 
+ 
+Stone  (Book, Dragon Language: Myth No More)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+ 
+
+Qiilaan Q3L1N 
+ 
+ 
+Bow (verb)  (Dialogue File, 000ED363)  (PrimaGames.com) 
+
+ 
+Qo QO 
+ 
+ 
+Lightning  (Storm Call Shout)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Qolaas QOL1S 
+ 
+ 
+Herald  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Qostiid QOST3D 
+ 
+ 
+Prophecy  (Dialogue File, 0003F9E1)  (PrimaGames.com) 
+
+ 
+ 
+
+Qoth QOTH 
+ 
+ 
+Tomb  (Soul Cairn Summon Shout) 
+ 
+Quethsegol Ahrol  QUETHSEGOL 4ROL 
+ 
+ 
+Granite Hill  (Book, Holdings of Jarl Gjalund) 
+
+ 
+ 
+ 
+
+ 
+ Raan R1N 
+ 
+ 
+Animal  (Animal Allegiance Shout)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+
+Qethsegol vahrukiv key Sarvirra, zok krin Raan alun wah fonaar odus frod, ahrk ofan ok sil fah ok drog.  This stone commemorates the horse Sarvirra, the most courageous Animal ever to charge the snowy battlefields, and give his soul for his lord.  (Word Wall for Raan, Animal Allegiance) 
+
+ 
+Rah R4 
+ 
+ 
+God(s)  (Dialogue File, 000BBEAA)  (PrimaGames.com) 
+
+ 
+Rahgol R4GOL 
+ 
+ 
+Rage  (POGGLE, p. 1097)  (PrimaGames.com) 
+ 
+  
+Rahgot R4GOT 
+ 
+ 
+Anger  (PrimaGames.com) 
+
+ 
+Rahgron R4GRON 
+ 
+ 
+Angry  (POGGLE, p. 1099)  (PrimaGames.com) 
+
+ 
+Rath RATH 
+ 
+ 
+River  (PrimaGames.com) 
+
+ 
+Rein R2N 
+ 
+ 
+Roar  (Book, Songs of Skyrim)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+ 
+ 
+ 
+
+ 
+Rek REK 
+ 
+ 
+She  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+Here lies the body of Hela, friend to all beasts and servant of Kyne. May she find eternal rest in the Forest of Dreams.  (Word Wall for Kaan, Kynes Peace) 
+
+ 
+Rel REL 
+ 
+ 
+Domination  (Dialogue File, 0003C574)  (PrimaGames.com) 
+
+Possibly from English rule. Featured in the dragon names Kruziikrel ancient domination and Relonikiv domination enlightenment. 
+
+ 
+ 
+ 
+
+Revak REVAK 
+ 
+ 
+Sacred  (Dialogue File, 0003FA3E)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Reyliik R9L3K 
+ 
+ 
+Race  (Book, Songs of Skyrim)  (POGGLE, p. 1097) 
+
+ 
+Reyth R9TH 
+ 
+ 
+Tree  (PrimaGames.com) 
+
+ 
+Rii R3 
+ 
+ 
+Essence  (Soul Tear Shout)  (POGGLE, p. 1097)  (PrimaGames.com) 
+ 
+ 
+ 
+
+Riik R3K 
+ 
+ 
+Gale  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Rinik RINIK 
+ 
+ 
+Very  (Dialogue File, 00048F0D)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+ 
+ 
+
+ 
+Ro RO 
+ 
+ 
+Balance  (Unrelenting Force Shout)  (Dialogue File, 0004DE36)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+ 
+
+ 
+Rok ROK 
+ 
+ 
+He  (Book, Dragon Language: Myth No More)  (Book, Songs of Skyrim)  (Dialogue File, 0009C218)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+ 
+ 
+ 
+
+ 
+Rok ROK 
+ 
+ 
+Word  (Dialogue File, 000C43AE)  (POGGLE, p. 1099)  (PrimaGames.com) 
+
+ 
+
+ 
+Ronaan RON1N 
+ 
+ 
+Archer  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Ronaaz RON1Z 
+ 
+ 
+Arrow  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Ronax RONAX 
+ 
+ 
+Regiment  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Ronit RONIT 
+ 
+ 
+Rival (verb)  (Book, Songs of Skyrim)  (POGGLE, p. 1097)  (PrimaGames.com) 
+ 
+ 
+
+Rorikhofkah  RORIKHOFK4 
+ 
+ 
+Roriks Steading  (Book, Holdings of Jarl Gjalund) 
+
+ 
+
+ 
+Rot ROT 
+ 
+ 
+Word  (PrimaGames.com) 
+
+ 
+ 
+ 
+ 
+
+Rotmulaag ROTMUL1G 
+ 
+ 
+Word of Power  (Dialogue File, 000D2CF3)  (PrimaGames.com) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+Rovaan ROV1N 
+ 
+ 
+Wander  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Ru RU 
+ 
+ 
+Run  (Dismay Shout)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Rul RUL 
+ 
+ 
+Rul (special case, used only when the word is the first in the sentence)  (Book, Songs of Skyrim)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Ruth RUTH 
+ 
+ 
+Rage/Curses  (Dialogue File, 000E898C, 000C64F1)  (PrimaGames.com) 
+
+ 
+Ruvaak RUV1K 
+ 
+ 
+Raven  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Ruz RUZ 
+ 
+ 
+Then (ahrk ruz = and then)  (Book, Songs of Skyrim)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+ 
+
+ 
+ 
+Saan S1N 
+ 
+ 
+Lose  (PrimaGames.com) 
+
+ 
+Sadon SADON 
+ 
+ 
+Gray  (POGGLE, p. 1097)  (PrimaGames.com) 
+ 
+ 
+ 
+
+ 
+Sadonvum SADONVUM 
+ 
+ 
+No official translation given. 
+
+ 
+
+ 
+Sah S4 
+ 
+ 
+Phantom  (Phantom Form Shout)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+ 
+
+ 
+Sahlo S4LO 
+ 
+ 
+Weak  (Dialogue File, 0003F9E1)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+Modir fin Gut wahlaan qethsegol zeymahii vahrukt, Oskar fin Mey, wen Zul los sahlo, ahrk ni sahrot Thuum do ok brod.  Modir the Far raised this stone for his brother, Oskar the Fool, whose Voice was weak, and not the mighty Thuum of his clan.  (Word Wall for Throw Voice) 
+Draal ni fah Drem, fah grik los hind do sahlo ahrk nivahriin.  Pray not for Peace, for such is the wish of the weak and cowardly.  (Word Wall for Drem, Kynes Peace) 
+
+ 
+Sahqo S4QO 
+ 
+ 
+Red  (Book, Dragon Language: Myth No More)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+Aesa wahlaan qethsegol briinahii vahrukt, Thohild fin Toor, wen smoliin ag frin ol Sahqo Heim.  Aesa raised this stone for her sister, Thohild the Inferno, whose passion burned hot as the Red Forge.  (Word Wall for Toor, Inferno) 
+
+ 
+Sahqon S4QON 
+ 
+ 
+Crimson  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+Lungerd wahlaan qethsegol ahmulii vahrukt, Thorgrima, deinmaar do sahqon yolos, ahrk drog do Lah.  Lungerd raised this stone in memory of her husband, Thorgrima, keeper of the crimson flame, and lord of Magicka.  (Word Wall for Lah, Drain Vitality) 
+
+ 
+Sahrot S4ROT 
+ 
+ 
+Mighty  (Book, Songs of Skyrim)  (Dialogue File, 0009E075)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+Sahsun S4SUN 
+ 
+ 
+Village  (PrimaGames.com) 
+
+ 
+ 
+ 
+ 
+
+Sahsunaar S4SUN1R 
+ 
+ 
+Villager(s)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Sahvot S4VOT 
+ 
+ 
+Faith  (POGGLE, p. 1097) 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+Saraan SAR1N 
+ 
+ 
+Await/Wait/Delay  (Dialogue File, 000E1705, 000C64F6)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+
+Lingrah krosis saraan Strundu'ul, voth nid balaan klov praan nau.  Long sorrowfully (has) waited the Stormcrown, with no worthy head to rest on.  (Greybeards, 000C43AB) 
+Dovahkiin, vosaraan! Use Dragonrend before Alduin consumes you!  Vosaraan = do not delay  (Paarthurnax, 000C64F6) 
+Qethsegol vahrukiv Bhor fin Golah, wo praal het mulhaan ol Gol saraan onikiv, nunon wah meyz wuth sinon do onik.  This stone commemorates Bhor the Stubborn, who sat here still as Earth awaiting enlightenment, only to become old instead of wise.  (Word Wall for Gol, Bend Will) 
+
+ 
+Saviik SAV3K 
+ 
+ 
+Savior  (Book, Songs of Skyrim)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Se SE 
+ 
+ 
+Of, should be used when new words are formed  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Shaan SH1N 
+ 
+ 
+Inspire  (Battle Fury Shout)  (POGGLE, p. 1097) 
+
+ 
+Shul SHUL 
+ 
+ 
+Sun (Word of Power, see also Krein)  (Fire Breath Shout)  (Dialogue File, 000B89E4)  (POGGLE, p. 1097) 
+
+ 
+Siigonis S3GONIS 
+ 
+ 
+Argonian/Lizard  (PrimaGames.com) 
+
+ 
+ 
+
+ 
+Siiv S3V 
+ 
+ 
+Find/Found  (Dialogue File, 00048F02)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+ 
+
+Het nok Yngnavar Gaaf-Kodaav, wo drey Yah moro nau Frod do Krosis, nuz sinon siiv dinok ahrk dukaan.  Here lies Yngnavar Ghost-Bear, who did Seek glory on the Battlefield of Sorrows, but instead found death and dishonor.  (Word Wall for Yah, Aura Whisper) 
+Het nok kopraan do Hela, Fahdon wah pah sivaas aar do Kaan. Aal rek siiv unahzaal praan ko Feykro do Hahnu.  Here lies the body of Hela, friend to all beasts and servant of Kyne. May she find eternal rest in the Forest of Dreams.  (Word Wall for Kaan, Kynes Peace) 
+
+ 
+Sik SIK 
+ 
+ 
+Rune/Word  (PrimaGames.com) 
+
+Possibly from English sign, Latin signum. 
+
+ 
+ 
+ 
+
+Sil SIL 
+ 
+ 
+Soul  (Dialogue File, 000E1705)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+Qethsegol vahrukiv key Sarvirra, zok krin Raan alun wah fonaar odus frod, ahrk ofan ok sil fah ok drog.  This stone commemorates the horse Sarvirra, the most courageous Animal ever to charge the snowy battlefields, and give his soul for his lord.  (Word Wall for Raan, Animal Allegiance) 
+ 
+ 
+ 
+
+ 
+Sillesejoor  SILLESEJ8R 
+ 
+ 
+Mortal Souls  (Dialogue File, 000CDDF1) 
+
+ 
+ 
+ 
+
+ 
+Sinak SINAK 
+ 
+ 
+Finger(s)  (Book, Dragon Language: Myth No More)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+  
+Sindugahvon  SINDUG4VON 
+ 
+ 
+Unyielding  (POGGLE, p. 1099)  (PrimaGames.com) 
+
+ 
+ 
+ 
+ 
+ 
+
+Sinon SINON 
+ 
+ 
+Instead  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Sivaas SIV1S 
+ 
+ 
+Beast  (Dialogue File, 00045D09)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Sizaan SIZ1N 
+ 
+ 
+Lost  (POGGLE, p. 1097)  (PrimaGames.com) 
+ 
+ 
+ 
+
+ 
+Slen SLEN 
+ 
+ 
+Flesh  (Ice Form Shout)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+ 
+
+ 
+Smoliin SMOL3N 
+ 
+ 
+Passion  (Book, Dragon Language: Myth No More)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+So SO 
+ 
+ 
+Sorrow  (Dialogue File, 0009C212) 
+
+ 
+Sod SOD 
+ 
+ 
+Deed (Exploit)  (PrimaGames.com) 
+
+ 
+Sonaak SON1K 
+ 
+ 
+Priest  (POGGLE, p. 1097) 
+
+ 
+ 
+ 
+
+ 
+Sonaan SON1N 
+ 
+ 
+Bard  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+ 
+ 
+
+ 
+Sos SOS 
+ 
+ 
+Blood  (Book, Dragon Language: Myth No More)  (Dialogue File, 0003F88F)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+Wulfik wahlaan qethsegol judii vahrukt, Hrefna Ruvaak-Om, wen miin Diin sos do naan jul.  Wulfik raised this stone in memory of his queen, Hrefna Raven-Hair, whose eyes could Freeze the blood of any man.  (Word Wall for Diin, Frost Breath) 
+Het nok kopraan do Iglif Iiz-Sos, wo grind ok oblaan ni ko morokei vukein, nuz ahst munax haalvut do liiv krasaar.  Here lies the body of Iglif Ice-Blood, who met his end not in glorious combat, but at the cruel touch of the withering sickness.  (Word Wall for Iiz, Ice Form) 
+
+ 
+Sosaal SOS1L 
+ 
+ 
+Blood  (Dialogue File, 000E16F9)  (PrimaGames.com) 
+
+ 
+Sossedov SOSSEDOV 
+ 
+ 
+Dragonblood/Blood of the Dragon  (Dialogue File, 0005586A)  (PrimaGames.com) 
+ 
+ 
+ 
+ 
+
+Sot SOT 
+ 
+ 
+White  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+  
+Sov SOV 
+ 
+ 
+Spend/Spent  (POGGLE, p. 1097) 
+
+ 
+Sovngarde  SOVNGARDE 
+ 
+ 
+Sovngarde  (Dialogue File, 00056380)  (POGGLE, p. 1099) 
+
+ 
+ 
+
+Het mah Hrothmar, Bah Grohiik do bruniik pindaar. Aal ok sil rovaan Sovngarde mahfaeraak.  Here fell Hrothmar, Wrath Wolf of the savage plains. May his soul wander Sovngarde forever.  (Word Wall for Bah, Storm Call) 
+
+ 
+Sovrahzun  SOVR4ZUN 
+ 
+ 
+Mercenary  (POGGLE, p. 1097) 
+
+ 
+Spaan SP1N 
+ 
+ 
+Shield  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+Het mah spaan vahdin Valkrys, wo krif voth ahkrin, nuz los folaas wah Ov mulaag do bodiis tuz.  Here fell the shield maiden Valkrys, who fought bravely, but was wrong to Trust the strength of a borrowed blade.  (Word Wall for Ov, Kynes Peace) 
+
+ 
+Staadnau ST1DNAU 
+ 
+ 
+strong adjective Unbound (Book, Songs of Skyrim)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+
+ 
+Stin STIN 
+ 
+ 
+Free (adjective) / Freedom  (Book, Songs of Skyrim)  (Dialogue File, 000E16F5)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Strun STRUN 
+ 
+ 
+Storm  (Storm Call Shout)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+  
+Strundu'ul  STRUNDU'UL 
+ 
+ 
+Stormcrown  (Dialogue File, 000C43AB) 
+
+whose name means stormcrown. 
+
+ 
+Strunmah STRUNM4 
+ 
+ 
+Mountain  (Dialogue File, 0003F88B)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+  
+Su SU 
+ 
+ 
+Air  (Elemental Fury Shout)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Su'um SU'UM 
+ 
+ 
+Breath/inner spirit (used in terms of the Voice power)  (Dialogue File, 000BF4AD)  (PrimaGames.com) 
+ 
+ 
+
+ 
+Sul SUL 
+ 
+ 
+Day  (Book, Songs of Skyrim)  (Dialogue File, 00078DF7)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Suleyk SUL9K 
+ 
+ 
+Power  (Book, Songs of Skyrim)  (Dialogue File, 00044968)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+   
+
+In your tongue, [Yol] simply means Fire. It is change given form. Power at its most primal. That is the true meaning of Yol. Suleyk. Power. You have it, as do all dov. But power is inert without action and choice.  (Paarthurnax, 000E8275) 
+Naal Thu'umu, mu ofan nii nu, Dovahkiin, naal suleyk do Kaan, naal suleyk do Shor, ahrk naal suleyk do Atmorasewuth.  By our Voice we give it now (to you), Dragonborn, by (the) power of Kyne, by the power of Shor, and by the power of Atmora-of-old.  (Greybeards, 000C43A6) 
+
+ 
+ 
+
+ 
+Suleykaar SUL9K1R 
+ 
+ 
+Powerful  (POGGLE, p. 1097)  (PrimaGames.com) 
+ 
+ 
+ 
+ 
+ 
+
+Suleyksejun  SUL9KSEJUN 
+ 
+ 
+Realm, dominion (literally power-of-the-king)  (Dialogue File, 00035B4A)  (PrimaGames.com) 
+ 
+  
+Sunvaar SUNV1R 
+ 
+ 
+Beast(s)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Suvulaan SUVUL1N 
+ 
+ 
+Twilight  (PrimaGames.com) 
+
+ 
+ 
+ 
+
+ 
+ 
+Taazokaan T1ZOK1N 
+ 
+ 
+Taazokaan (the physical land/continent)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+
+Qethsegol vahrukiv paaz Kulaas Yrsa wo ensosin pah do Taazokaan voth ek dun ahrk brii.  This stone commemorates the fair Princess Yrsa who bewitched all of Tamriel with her grace and beauty.  (Word Wall for Dun, Elemental Fury) 
+
+ 
+Tafiir TAF3R 
+ 
+ 
+Thief  (Book, Dragon Language: Myth No More)  (POGGLE, p. 1097) 
+
+Reference to the word taffer coined in the Thief video game series. 
+
+ 
+ 
+ 
+ 
+
+Tah T4 
+ 
+ 
+Pack  (Animal Allegiance Shout)  (POGGLE, p. 1097  (PrimaGames.com) 
+
+ 
+Tahrodiis T4ROD3S 
+ 
+ 
+Treacherous/Turbulent  (Book, Dragon Language: Myth No More)  (Dialogue File, 000CD9DF, 00055771)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+Het mah tahrodiis tafiir Skorji Lun-Sinak, wen klov govey naal rinik hahkun rok togaat wah gahrot.  Here fell the treacherous thief Skorji Leech-Fingers, whose head was removed by the very axe he was attempting to steal.  (Word Wall for Lun, Marked for Death) 
+
+derogatory insult equivalent to nivahriin coward (which may also connotate betrayal). Describes something that does not follow rule, law, or expectations. 
+
+ 
+Tahrovin T4ROVIN 
+ 
+ 
+Treachery  (PrimaGames.com) 
+ 
+  
+Tey T9 
+ 
+ 
+Tale  (Book, Songs of Skyrim)  (POGGLE, p. 1097)  (PrimaGames.com) 
+ 
+Thaarn TH1RN 
+ 
+ 
+Obedience  (Book, Songs of Skyrim)  (POGGLE, p. 1097)  (PrimaGames.com) 
+ 
+ 
+ 
+ 
+
+Thu'um THU'UM 
+ 
+ 
+Shout/Voice (Storm voice) (Book, Pocket Guide to the Empire, 1st Edition/Skyrim) (Book, Varieties of Faith in the Empire)  (Dialogue File, 000BFC4A, 000C43A7)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+ 
+ 
+ 
+
+But there are many Words of Power in Skyrim, carved in the Dragon tongue. Even from here, we can feel the Thu'um resonate from them.  (Arngeir, 000E76DA) 
+I cannot tell you in detail. I never heard [Dragonrend] used. ... It was the first Thu'um created solely by mortals.  (Paarthurnax, 0003FA43   ) 
+
+Many of the dovahhe are now scattered across Keizaal. Without Alduin's lordship, they may yet bow to the vahzen... rightness of my Thu'um.  (Paarthurnax, 0009E073) 
+Thu'um se Dovahkiin inhus, Miraak. Hin suleyksejun oblaan.  The Dragonborn's Voice has the mastery, Miraak. Your dominion is ended.  (Sahrotaar, 0202BC55) 
+Thu'umii los nahlot.  His Voice is silenced.  (Dragon, 0009E072) 
+Naal Thu'umu, mu ofan nii nu, Dovahkiin, naal suleyk do Kaan, naal suleyk do Shor, ahrk naal suleyk do Atmorasewuth.  By our Voice we give it now (to you), Dragonborn, by (the) power of Kyne, by the power of Shor, and by the power of Atmora-of-old.  (Greybeards, 000C43A7) 
+
+Thur TH6 
+ 
+ 
+Overlord/King/Overlordship  (Dialogue, 00078DF7, 000E16FD)  (PrimaGames.com) 
+
+Alduin mah nol thur.  Alduin (has) fallen from (the) overlord(ship).  (Odahviing, 000E16FD) 
+Yes. There were a few of us that rebelled against Alduin's thur... his tyranny. We aided the humans in his overthrow.  (Paarthurnax, 0003FA41) 
+ 
+ 
+ 
+
+ 
+Tiid T3D 
+ 
+ 
+Time  (Slow Time Shout)  (Dialogue, 00035B4A)  (PrimaGames.com)  (POGGLE, p. 1097) 
+
+You have it. The Kel - the Elder Scroll. Tiid kreh... qalos. Time shudders at its touch.  (Paarthurnax, 000C64EC) 
+I knew better. Tiid bo amativ. Time flows ever onward. One day he would surface.  Tiid bo amativ = time flows/flies (ever) onward  (Paarthurnax, 000BBEA8) 
+Aam? Serve you? ...no. Ni tiid. If and when you defeat Alduin, I will reconsider.  Ni tiid = not time = not yet  (Odahviing, 00048F03) 
+Vegunthar wahlaan qethsegol bormahii vahrukt, Hungunthar Tiid-Naak, kriaan se junnesejer, kroniid se Dunkreath.  Vegunthar built (this) stone (in) his fathers memory, Hungunthar Time-Eater, slayer of the Kings of the East, conqueror of Dunkreath.  (Word Wall for Tiid, Slow Time) 
+
+ 
+ 
+ 
+ 
+
+Tiid-Ahraan  T3D-4R1N 
+ 
+ 
+Time-Wound  (Dialogue File, 0003FA49) 
+
+ 
+Tiiraaz T3R1Z 
+ 
+ 
+Sad  (Dialogue File, 0009C20A)  (PrimaGames.com) 
+
+ 
+Til TIL 
+ 
+ 
+There  (Dialogue File, 00048F05)  (PrimaGames.com) 
+
+ 
+Tinvaak TINV1K 
+ 
+ 
+Talk/Speak/Speech  (Dialogue File, 0005597E)  (PrimaGames.com) 
+
+ 
+Togaat TOG1T 
+ 
+ 
+Attempt  (PrimaGames.com)  (POGGLE, p. 1097) 
+
+ 
+ 
+ 
+ 
+
+ 
+Tol TOL 
+ 
+ 
+That  (Book, Songs of Skyrim)  (PrimaGames.com)  (POGGLE, p. 1097) 
+
+Nau daar revak golt drey Freda zahrahmiik ek Laas, ful tol ek pogaan kiir filok, ahrk osos sul qahnaar ek hokoron.  On this sacred ground did Freda sacrifice her Life, so that her many children might escape, and some day vanquish her enemies.  (Word Wall for Laas, Aura Whisper) 
+
+ 
+Toor T8R 
+ 
+ 
+Inferno  (Fire Breath Shout)  (Dialogue File, 000B89E1)  (PrimaGames.com)  (POGGLE, p. 1097) 
+ 
+Tovit TOVIT 
+ 
+ 
+Search  (PrimaGames.com) 
+
+ 
+Tovitaan TOVIT1N 
+ 
+ 
+Searcher  (PrimaGames.com) 
+
+ 
+Tu TU 
+ 
+ 
+Hammer  (PrimaGames.com)  (POGGLE, p. 1097) 
+
+
+  
+Tum TUM 
+ 
+ 
+Down  (POGGLE, p. 1097) 
+
+ 
+Tuz TUZ 
+ 
+ 
+Blade  (Book, Songs of Skyrim)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+  
+Ufiik UF3K 
+ 
+ 
+Troll  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Ul UL 
+ 
+ 
+Eternity  (Slow Time Shout)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+ 
+ 
+
+ 
+Ulse ULSE 
+ 
+ 
+For Eternity  (Dialogue File, 000CC4F2) 
+
+ 
+  
+Un UN 
+ 
+ 
+Our (possessive form of we - not commonly used)  (PrimaGames.com) 
+
+ 
+Unahzaal UN4Z1L 
+ 
+ 
+Eternal/Unending/Ceaseless (less common than Unslaad)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Unslaad UNSL1D 
+ 
+ 
+Eternal/Unending/Ceaseless (less common than Unslaad)  (Dialogue File, 000ED359)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+ 
+Unt UNT 
+ 
+ 
+Try  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+  
+Us US 
+ 
+ 
+Before  (PrimaGames.com) 
+
+ 
+Uth UTH 
+ 
+ 
+Order/Command  (Dialogue File, 000E16FA, 0004DE3C)  (PrimaGames.com) 
+
+
+ 
+Uv UV 
+ 
+ 
+Or  (Dialogue File, 000C64F2)  (PrimaGames.com) 
+
+ 
+Uznahgaar UZN4G1R 
+ 
+ 
+Unbridled  (Dialogue File, 0004591A)  (POGGLE, p. 1097)  (PrimaGames.com) 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+Vaal V1L 
+ 
+
+Bay (as in at bay)  (Book, Songs of Skyrim)  (Dialogue File, 000E898C)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Vaat V1T 
+ 
+ 
+Swear/Swore  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Vaaz V1Z 
+ 
+ 
+Tear  (Soul Tear Shout)  (POGGLE, p. 1097) 
+
+ 
+ 
+
+ 
+Vah V4 
+ 
+ 
+Spring  (Clear Skies Shout)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+  
+Vahdin V4DIN 
+ 
+ 
+Maiden  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+ 
+ 
+ 
+
+Vahlok V4LOK 
+ 
+ 
+Guardian  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+ 
+
+ 
+Vahriin V4R3N 
+ 
+ 
+Sworn  (Book, Songs of Skyrim)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+ 
+ 
+
+Vahrukiv V4RUKIV 
+ 
+ 
+Commemorate  (Book, Dragon Language: Myth No More)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+ 
+
+Vahrukt V4RUKT 
+ 
+ 
+Memory  (Book, Dragon Language: Myth No More)  (Dialogue File, 0003FA48)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+overarching, general memory, as in the memory of a people. 
+
+ 
+Vahzah V4Z4 
+ 
+ 
+True  (Dialogue File, 0003F88C)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+Vahzen V4ZEN 
+ 
+ 
+Truth  (PrimaGames.com) 
+ 
+Ved VED 
+ 
+ 
+Black  (Book, Songs of Skyrim)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Ven VEN 
+ 
+ 
+Wind  (Cyclone Shout)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+
+ 
+Vennesetiid VENNESET3D 
+ 
+ 
+The Currents of Time  (Dialogue, 0009C215) 
+
+ 
+ 
+ 
+
+ 
+Vey V9 
+ 
+ 
+Cut  (Book, Songs of Skyrim)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Veydo V9DO 
+ 
+ 
+Grass  (PrimaGames.com) 
+
+ 
+Veysun V9SUN 
+ 
+ 
+Ship  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Viidost V3DOST 
+ 
+ 
+Poison  (PrimaGames.com) 
+ 
+Viik V3K 
+ 
+ 
+Defeat  (Disarm Shout)  (Dialogue File, 000ED35D)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Viin V3N 
+ 
+ 
+Shine  (Dialogue File, 000B3985)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Viing V3NG 
+ 
+ 
+Wing (Call Dragon Shout) (Book, Songs of Skyrim) (Dialogue File, 000B3985) (POGGLE, p. 1097) (PrimaGames.com) 
+
+ 
+Viintaas V3NT1S 
+ 
+ 
+Shining  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+ 
+
+Viir V3R 
+ 
+ 
+Dying  (Summon Durnehviir Shout)  (POGGLE, p. 1097) 
+
+ 
+Vith VITH 
+ 
+ 
+Serpent  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+
+ 
+ 
+Un- (prefix meaning opposite of, e.g. unkind, unlikeable, etc.)  (POGGLE, p. 1097) 
+
+ 
+Vobalaan VOBAL1N 
+ 
+ 
+Unworthy  (Dialogue File, 0004DE32) 
+ 
+Vod VOD 
+ 
+ 
+Ago (lingrah vod - long ago)  (Book, Songs of Skyrim)  (POGGLE. p. 1097)  (PrimaGames.com) 
+
+ 
+Vodahmin VOD4MIN 
+ 
+ 
+Unremembered/Forgotten  (Book, Songs of Skyrim)  (POGGLE. p. 1097)  (PrimaGames.com) 
+
+ 
+Vokiin VOK3N 
+ 
+ 
+Unborn (Dialogue File, 0003FA13) 
+ 
+ 
+ 
+
+Vokrii VOKR3 
+ 
+ 
+Restore (literally unkill)  (Dialogue File, 000D2CF5)  (PrimaGames.com) 
+
+ 
+ 
+ 
+
+ 
+Vokul VOKUL 
+ 
+ 
+Evil (literally ungood)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Vokun VOKUN 
+ 
+ 
+Shadow  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Vol VOL 
+ 
+ 
+Horror  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Volaan VOL1N 
+ 
+ 
+Intruder  (PrimaGames.com) 
+
+ 
+Volunruud  VOLUNR5D 
+ 
+ 
+Volunruud  (Book, Holdings of Jarl Gjalund) 
+
+ 
+Vomindok VOMINDOK 
+ 
+ 
+Unknown/Unknowable  (Dialogue File, 000BD16A)  (PrimaGames.com) 
+
+ 
+Vomir VOM7 
+ 
+ 
+Unallied/Free of Fealty  (Dialogue File, 0009E06E) 
+
+ 
+ 
+ 
+
+ 
+Vonmindoraan  VONMINDOR1N 
+ 
+ 
+Incomprehensible  (Dialogue File, 0003FA43) 
+
+Vonmindoraan does not appear in any other source besides the dialogue cited above. 
+
+ 
+Vonun VONUN 
+ 
+ 
+Unseen  (PrimaGames.com) 
+
+ 
+ 
+ 
+ 
+ 
+
+Vonuz VONUZ 
+ 
+ 
+Invisible  (PrimaGames.com) 
+
+ 
+Vosaraan VOSAR1N 
+ 
+ 
+Do not wait / Do not delay  (Dialogue File, 000C64F0, 000C64F6) 
+
+ 
+ 
+ 
+
+ 
+Voth VOTH 
+ 
+ 
+With (Song of the Dragonborn - avoid using)  (Book, Songs of Skyrim)  (Dialogue File, 000C43AB)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+Lingrah krosis saraan Strundu'ul, voth nid balaan klov praan nau.  Long sorrowfully (has) waited the Stormcrown, with no worthy head to rest on.  (Greybeards, 000C43AB) 
+Qethsegol vahrukiv paaz kulaas Yrsa, wo ensosin pah do Taazokaan voth ek Dun ahrk brii.  This stone commemorates the fair princess Yrsa, who bewitched all of Tamriel with her Grace and beauty.  (Word Wall for Dun, Elemental Fury) 
+Ahrk fin zul, rok drey kod, nau tol morokei frod, rul lot Taazokaan motaad voth kein!  And the Voice, he did wield, on that glorious field, when great Tamriel shuddered with war!  (Book, Songs of Skyrim) 
+
+ 
+Vothaarn VOTH1RN 
+ 
+ 
+Disobedience  (Dialogue File, 000E16F9) 
+
+ 
+
+ 
+Vu VU 
+ 
+ 
+Dawn  (PrimaGames.com) 
+
+ 
+Vukein VUK2N 
+ 
+ 
+Combat  (Book, Dragon Language: Myth No More)  (POGGLE, p. 1097)  (PrimaGames.com) 
+ 
+  
+Vul VUL 
+ 
+ 
+Dark  (Book, Songs of Skyrim)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+ 
+
+ 
+Vulom VULOM 
+ 
+ 
+Darkness  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Vulon VULON 
+ 
+ 
+Night  (POGGLE, p. 1097)  (PrimaGames.com) 
+ 
+Vum VUM 
+ 
+ 
+Beard  (PrimaGames.com) 
+
+  
+
+ 
+Vur V6 
+ 
+ 
+Valor  (Battle Fury Shout)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+  
+Vus VUS 
+ 
+ 
+Nirn  (PrimaGames.com) 
+
+ 
+ 
+Wah W4 
+ 
+ 
+To/Versus  (Book, Songs of Skyrim)  (Book, Dragon Language: Myth No More)  (Dialogue File, 000D2CF5, 000D2DBF)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+to (expressing condition or state); to, at, towards; versus, against 
+
+Pogaan nahlaas, vokrii wah jun.  Many alive, restored to (the) light.  (Paarthurnax, 000D2CF5) 
+Ruth wah nivahriin joor!  Rage/curses to (you) cowardly mortal!  (Alduin, 000C64F1) 
+Thu'um wah Thu'um!  Shout versus Shout!  (Odahviing, 000D2DBF) 
+
+ 
+  
+Wahl W4L 
+ 
+ 
+Build/Create (past tense Wahlaan Built/Created)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Wahlaan W4L1N 
+ 
+ 
+Built/Created/Raised/Erected  (Book, Dragon Language: Myth No More)  (Dialogue File, 0009C216)  (POGGLE, p. 1097, 1098) 
+
+Dov wahlaan fah rel.  Dragons were created for domination.  (Paarthurnax, 0003C574) 
+Loknir Mal-Tu wahlaan qethsegol aarii vahrukt, bonaar Vakeeza, wo vaat Mir wah jun do Keizaal, ahrk dir ko sadon gravuun.  Loknir Little-Hammer erected this stone in memory of his servant, humble Vakeeza, who swore Allegiance to the kings of Skyrim, and died in the gray autumn.  (Word Wall for Mir, Animal Allegiance) 
+Nafni wahlaan qethsegol bormahii vahrukt, Rognvald, wen Zii fen mahfaeraak aak ok brod, ahrk folook ok hokoron.  Nafni raised this stone for his father, Rognvald, whose Spirit will forever guide his clan, and haunt his enemies.  (Word Wall for Zii, Become Ethereal) 
+
+ 
+Wahlaan W4L1N 
+ 
+ 
+Creation  (Dialogue File, 000BBEAA) 
+
+ 
+
+ 
+Wen WEN 
+ 
+ 
+Whose  (Book, Dragon Language: Myth No More)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+Pah werid sonaan Lunerio, wen yuvon lovaas meyz Fo, het ko vulon.  All praise the bard Lunerio, whose golden voice became Frost, here in the night.  (Word Wall for Fo, Frost Breath) 
+Thoringar wahlaan qethsegol monii vahrukt, Noomi, wen dez los wah Aus nin do pogaan Ogiim ronaaz.  Thoringar raised this stone for his daughters memory, Noomi, whose fate it was to Suffer the sting of many Orc arrows.  (Word Wall for Aus, Marked for Death) 
+
+ 
+Werid WERID 
+ 
+ 
+Praise  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+Pah werid sonaan Lunerio, wen yuvon lovaas meyz Fo, het ko vulon.  All praise the bard Lunerio, whose golden voice became Frost, here in the night.  (Word Wall for Fo, Frost Breath) 
+
+ 
+Win WIN 
+ 
+ 
+Wage  (Book, Songs of Skyrim)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+Not to be confused for wage as in salary. 
+
+ 
+ 
+ 
+ 
+
+Wo WO 
+ 
+ 
+Who  (Book, Dragon Language: Myth No More)  (Book, Songs of Skyrim)  (Dialogue File, 000ED363)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+  
+Wol WOL 
+ 
+ 
+Oak  (PrimaGames.com) 
+
+ 
+Wuld WULD 
+ 
+ 
+Whirlwind/Vortex  (Whirlwind Sprint Shout)  (Dialogue File, 00078B3E)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+
+Het nok kopraan do Wynjolf ahrk Wuld, wen viintaas tuz vey zeim lahvu do rahgron Ogiim.  Here lies the body of Wynjolf the Whirlwind, whose shining blades cut through an army of angry Orcs.  (Word Wall for Wuld, Whirlwind Sprint) 
+
+ 
+Wuldsetiid WULDSET3D 
+ 
+ 
+Whirlwind of Time  (Dialogue File, 00055771) 
+
+ 
+Wundun WUNDUN 
+ 
+ 
+Travel  (Dialogue File, 0009E069)  (PrimaGames.com) 
+
+ 
+Wunduniik  WUNDUN3K 
+ 
+ 
+Traveller  (Dialogue File, 0003F88B)  (PrimaGames.com) 
+
+ 
+Wuth WUTH 
+ 
+ 
+Old  (Dialogue File, 000C43A7)  (POGGLE, p. 1097)  (PrimaGames.com) 
+ 
+ 
+ 
+
+[The Greybeards] see me as master. Wuth. Onik. Old and wise.  (Paarthurnax, 0003F88E) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Yah Y4 
+ 
+ 
+Seek  (Aura Whisper Shout)  (Book, Dragon Language: Myth No More)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+  
+Yol YOL 
+ 
+ 
+Fire  (Fire Breath Shout)  (Dialogue File, 000E8275)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Yolos YOLOS 
+ 
+ 
+Flame  (POGGLE, p. 1097) 
+ 
+Yoriik YOR3K 
+ 
+ 
+March (POGGLE, p. 1097) (PrimaGames.com) 
+ 
+ 
+
+ 
+Yuvon YUVON 
+ 
+ 
+Gold/Golden (adjective)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+ 
+Zaam Z1M 
+ 
+ 
+Slave  (Soul Cairn Summon Shout)  (Dialogue File, 0202AD11) 
+
+ 
+  
+Zaamhus Z1MHUS 
+ 
+ 
+Slavery  (Dialogue File, 0202BC53) 
+ 
+Zaan Z1N 
+ 
+ 
+Shout (noun) (meaning yell, not use of Voice power)  (Book, Songs of Skyrim)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+
+ 
+Zah Z4 
+ 
+ 
+Finite  (Dragonrend Shout)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+  
+Zahkrii Z4KR3 
+ 
+ 
+Sword  (Book, Dragon Language: Myth No More)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+ 
+ 
+ 
+ 
+
+Zahrahmiik Z4R4M3K 
+ 
+ 
+Sacrifice  (POGGLE, p. 1097)  (PrimaGames.com) 
+ 
+Zeim Z2M 
+ 
+ 
+Through  (Book, Songs of Skyrim)  (Dialogue File, 0009C20D)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Zein Z2N 
+ 
+ 
+Worship (PrimaGames.com) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+Zeymah Z9M4 
+ 
+ 
+Brother(s)  (Book, Songs of Skyrim)  (Dialogue File, 0009C213)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+Yes. Alduin... zeymah. The elder brother. Gifted, grasping and troublesome as is so often the case with firstborn.  (Paarthurnax, 000556DC) 
+
+ 
+Zeymahzin Z9M4ZIN 
+ 
+ 
+Companion  (PrimaGames.com) 
+
+ 
+ 
+ 
+
+Zii Z3 
+ 
+ 
+Spirit/Soul  (Become Ethereal Shout)  (Dialogue File, 000CC4F2)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Zin ZIN 
+ 
+ 
+Honor  (Book, Songs of Skyrim) (Dialogue File, 0003F9E6)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Zind ZIND 
+ 
+ 
+Triumph  (Book, Songs of Skyrim)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Zofaas ZOF1S 
+ 
+ 
+Fearful  (Dialogue File, 000BBEAA) 
+
+ 
+Zohungaar ZOHUNG1R 
+ 
+ 
+Heroically  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+  
+Zok ZOK 
+ 
+ 
+Most  (Dialogue File, 000ED362)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+Qethsegol vahrukiv key Sarvirra, zok krin Raan alun wah fonaar odus frod, ahrk ofan ok sil fah ok drog.  This stone commemorates the horse Sarvirra, the most courageous Animal ever to charge the snowy battlefields, and give his soul for his lord.  (Word Wall for Raan, Animal Allegiance) 
+
+ 
+Zol ZOL 
+ 
+ 
+Zombie  (Soul Tear Shout)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+  
+Zoor Z8R 
+ 
+ 
+Legend  (Call of Valor Shout)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Zorox ZOROX 
+ 
+ 
+Create  (PrimaGames.com) 
+
+ 
+Zu'u ZU'U 
+ 
+ 
+I  (Dialogue File, 000ED359)  (PrimaGames.com) 
+
+Go and see for yourself. Zu'u ni bo nol het. I will be here... unless Alduin returns before you do.  Zu'u ni bo nol het = I (am) not moving from here  (Odahviing, 0004DE37) 
+ 
+ 
+
+ 
+Zul ZUL 
+ 
+ 
+Voice (the actual mortal voice, not the power of the shouting [sic])  (Throw Voice Shout)  (Book, Songs of Skyrim)  (POGGLE, p. 1097)  (PrimaGames.com) 
+
+ 
+Zun ZUN 
+ 
+ 
+Weapon  (Disarm Shout)  (POGGLE, p. 1097)  (PrimaGames.com) 
