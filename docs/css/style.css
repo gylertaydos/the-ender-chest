@@ -1,23 +1,27 @@
- body {
+body {
     background: #F9F9F9; /*#F9F9F9 white*/
     text-align: center;
     letter-spacing: 1px;
     font-family: "monospace", "FreeMono", monospace;
-}           
+    margin:0;
+}
 
-ul.nav{
+.nav {
+    position: sticky;
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding: .5vh;
     overflow: hidden;
     background-color: #333;
     font-size: x-large;
-    top: 0;
     width: 100%;
     z-index: 2;
 }
+a{
+    color: black;
+}
 
-li a{
+li a.nav{
     display: block;
     color: white;
     text-align: center;
@@ -31,6 +35,7 @@ li {
 }
 
 p{
+    text-align: left;
     width: 80%;
     margin: 20px auto;
 }
@@ -46,4 +51,13 @@ img{
 
 figcaption{
     font-size: small;
+}
+
+div.gallery{
+    margin: 0;
+    padding: .5vh;
+    overflow: hidden;
+    display: grid; /* use grid layout */
+    grid-template-columns: repeat(2, 1fr); /* two items per row */
+    grid-gap: 10px; /* gap between items */
 }
