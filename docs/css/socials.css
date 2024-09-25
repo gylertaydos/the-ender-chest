@@ -28,9 +28,7 @@ p{
     grid-template-columns: repeat(1, 10%);
     grid-template-areas:
         '. header header picture'
-        'menu intro intro picture'
-        'menu repo repo .'
-        '. dataviz digitart .';
+        'menu linkedin youtube picture';
 }
 
 .item1{
@@ -46,6 +44,7 @@ p{
     text-align: left;
     font-size: x-large;
     width: 100%;
+    
 }
 
 ul{
@@ -57,21 +56,9 @@ li{
 }
 
 .item4{
-    grid-area: intro;
+    grid-area: linkedin;
 }
 
 .item5{
-    grid-area: repo;
-}
-
-.item6{
-    grid-area: dataviz;
-/*    height: auto;
-    width: 25vw;*/
-}
-
-.item7{
-    grid-area: digitart;
-/*    height: auto;
-    width: 25vw;*/
+    grid-area: youtube;
 }

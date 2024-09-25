@@ -28,9 +28,13 @@ p{
     grid-template-columns: repeat(1, 10%);
     grid-template-areas:
         '. header header picture'
-        'menu intro intro picture'
-        'menu repo repo .'
-        '. dataviz digitart .';
+        'menu pic1 pic2 picture'
+        'menu pic3 pic4 .'
+        '. pic5 pic6 .';
+}
+
+img{
+    max-width: 30vw;
 }
 
 .item1{
@@ -52,26 +56,26 @@ ul{
    list-style-type: none; 
 }
 
-li{
- 
-}
-
 .item4{
-    grid-area: intro;
+    grid-area: pic1;
 }
 
 .item5{
-    grid-area: repo;
+    grid-area: pic2;
 }
 
 .item6{
-    grid-area: dataviz;
-/*    height: auto;
-    width: 25vw;*/
+    grid-area: pic3;
 }
 
 .item7{
-    grid-area: digitart;
-/*    height: auto;
-    width: 25vw;*/
+    grid-area: pic4;
+}
+
+.item8{
+    grid-area: pic5;
+}
+
+.item9{
+    grid-area: pic6;
 }
