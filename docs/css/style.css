@@ -17,6 +17,12 @@ body {
     margin-right: 5vw;
 }
 
+.littlemonkeyhardhat{
+    height: 300px;
+    width: auto;
+}
+
+
 p{
     text-align: left;
     width: 80%;
@@ -30,7 +36,8 @@ p{
         '. header header picture'
         'menu intro intro picture'
         'menu repo repo .'
-        '. dataviz digitart .';
+        '. dataviz digitart .'
+        '. renovations renovations .';
 }
 
 .item1{
@@ -74,4 +81,8 @@ li{
     grid-area: digitart;
 /*    height: auto;
     width: 25vw;*/
+}
+
+.item8{
+    grid-area: renovations;
 }
