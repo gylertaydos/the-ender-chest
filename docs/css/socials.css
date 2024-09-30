@@ -25,10 +25,16 @@ p{
 
 .grid{
     display: grid;
-    grid-template-columns: repeat(1, 10%);
+    /*grid-template-columns: repeat(1, 10%);*/
     grid-template-areas:
         '. header header picture'
         'menu linkedin youtube picture';
+   /* ebb 2024-09-28: I'm adding some grid properties here */
+   grid-auto-flow:column;
+   grid-template-columns: .25fr .25fr .25fr .25fr;
+   /* ebb: I use fr units to define the relative proportions of each column, 
+    * and it looked to me like you had 4 columns on your pages.
+    * .25fr is like saying 25% of 100.   */  
 }
 
 .item1{
@@ -39,7 +45,7 @@ p{
     grid-area: menu;
     margin: 0;
     padding: 5px;
-    overflow: hidden;
+    /*overflow: hidden;*/
     /*background-color: #333;*/
     text-align: left;
     font-size: x-large;
