@@ -22,7 +22,6 @@ body {
     width: auto;
 }
 
-
 p{
     text-align: left;
     width: 80%;
@@ -37,6 +36,8 @@ p{
         'menu intro intro picture'
         'menu repo repo .'
         '. dataviz digitart .'
+        '. alice dovahbot .'
+        '. nets nets .'
         '. renovations renovations .';
    /* ebb 2024-09-28: I'm adding some grid properties here */
    grid-auto-flow:column;
@@ -92,4 +93,14 @@ li{
 
 .item8{
     grid-area: renovations;
+}
+
+.item9{
+    grid-area: alice;
+}
+.item10{
+    grid-area: dovahbot;
+}
+.item11{
+    grid-area: nets;
 }

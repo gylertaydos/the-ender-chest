@@ -68,3 +68,8 @@ li{
 .item5{
     grid-area: youtube;
 }
+
+.socials{
+    height: 98px;
+    width: auto;
+}
