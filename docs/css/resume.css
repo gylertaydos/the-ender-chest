@@ -1,49 +1,74 @@
- body {
-                background: #F9F9F9; /*#F9F9F9 white*/
-                text-align: center;
-                font-family: "monospace", "FreeMono", monospace;
-                
-            }           
-ul.nav{
-    position: sticky;
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-    font-size: x-large;
-    top: 0;
-    width: 100%;
-    z-index: 2;
+body {
+    background: #F9F9F9; /*#F9F9F9 white*/
+    text-align: center;
+    letter-spacing: 1px;
+    font-family: "monospace", "FreeMono", monospace;
+    margin:0;
 }
 
-li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    float: left;
+.item2{
+    grid-area: picture;
 }
-li {
-    display: inline-block;
-    list-style-type: none;
+.littlemonkey{
+    height: 98px;
+    width: auto;
+    float: right;
+    margin-top: 5px;
+    margin-right: 5vw;
+}
+
+.littlemonkeyhardhat{
+    height: 300px;
+    width: auto;
 }
 
 p{
-                margin-left: 100px;
-                margin-right: 100px;
+    text-align: left;
+    width: 80%;
+    margin: 20px auto;
 }
 
-section.resume{
-                margin: 100px;
-                text-align: left;
+.grid{
+    display: grid;
+    /* grid-template-columns: repeat(1, 10%); */
+    grid-template-areas:
+        '. header header picture'
+        'menu intro intro picture'
+        'menu resume resume .';
+
+    /* ebb 2024-09-28: I'm adding some grid properties here */
+    grid-auto-flow:column;
+    grid-template-columns: .25fr .25fr .25fr .25fr;
+    /* ebb: I use fr units to define the relative proportions of each column,
+     * and it looked to me like you had 4 columns on your pages.
+     * .25fr is like saying 25% of 100.   */
+
 }
 
-h3{
-                text-align: center;
+.item1{
+    grid-area: header;
 }
 
-h4{
-                text-align: center;
+.item3{
+    grid-area: menu;
+    margin: 0;
+    padding: 5px;
+    overflow: hidden;
+    /*background-color: #333;*/
+    text-align: left;
+    font-size: x-large;
+    width: 100%;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+
+}
+
+.item4{
+    grid-area: resume;
+    height: 100vh;
 }
