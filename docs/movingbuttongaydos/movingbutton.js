@@ -3,8 +3,7 @@ window.addEventListener('DOMContentLoaded', buttonSize, false); /*initial loadin
 const button = document.getElementById("clickme") /*assigning a constant for use in functions*/
 
 function buttonSize() {
-    button.addEventListener('click', resize) /* adding an event listener for when the button is clicked */
-    /*(alert ('Javascript loaded.');*/
+    button.addEventListener("click", resize) /* adding an event listener for when the button is clicked */
 }
 
 function resize(){ /* the function which is supposed to be activated upon click, resizing the button to a random size */
@@ -16,5 +15,3 @@ function resize(){ /* the function which is supposed to be activated upon click,
     button.style.left = randX+ "vw";
     /*alert ('The function is indeed working... somewhat');*/
 }
-
-/* for whatever reason, this doesn't work. I'm not sure why, and I've tried googling "javascript can't resize button", "javascript can't edit css", etc. but no one seems to have this issue which leads me to conclude I'm forgetting something very basic, but I ALSO can't figure out what*/
