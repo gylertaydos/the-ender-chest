@@ -1,0 +1,30 @@
+#face{
+    fill: gold;
+    stroke: black;
+    stroke-width: 2;
+}
+
+#leftEye{
+    fill: black;
+}
+
+#rightEye{
+    fill: black;
+}
+
+#mouth{
+    stroke: black;
+    fill: transparent;
+}
+
+svg{
+    transition: all 1s ease;
+}
+
+svg:hover{
+    transform:translate(100%, 100%);
+}
+
+svg:hover #face{
+    fill: green;
+}
